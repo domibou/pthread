@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -lgmp -lgmpxx CMakeFiles/TP1.dir/src/main.cpp.o -o TP1  /usr/lib/x86_64-linux-gnu/libgmp.so 
